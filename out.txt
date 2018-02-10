@@ -1,0 +1,12 @@
+RA 191/2014 Nebojsa Ijacic
+file	sum
+video-0.avi	19
+video-1.avi	81
+video-2.avi	70
+video-3.avi	56
+video-4.avi	37
+video-5.avi	38
+video-6.avi	65
+video-7.avi	49
+video-8.avi	76
+video-9.avi	66
